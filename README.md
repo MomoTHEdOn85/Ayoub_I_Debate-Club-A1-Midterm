@@ -25,9 +25,6 @@
 5. Submit a pull request :D
 
 
-## History
-
-
 ## Credits
 
 Immama Ayoub
