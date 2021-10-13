@@ -25,8 +25,6 @@
 5. Submit a pull request :D
 
 
-## History
-
 
 ## Credits
 
@@ -34,8 +32,8 @@ Immama Ayoub
 
 Another Ghost Immama!!
 
-
-
 ## License
 
 MIT
+
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
