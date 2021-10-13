@@ -1,4 +1,5 @@
-# Ayoub_I_Debate-Club-A1-Midterm
+ 
+# Ayoub_I_Debate-Club-A1-Midterm - Debating with a partner.
 
 # 💣💣💣⚔️⚔️⚔️⚔️⚔️⚔️💣💣💣  Immama Ayoub 🆚  Ghost Immama on Debate War 💣💣💣⚔️⚔️⚔️⚔️⚔️⚔️💣💣💣
 
@@ -19,21 +20,18 @@
 # Ghost Immama
 
 1. Fork it!
-2. Create your feature branch: `git checkout -b  
-3. Commit your changes: `git commit -m
-4. Push to the branch: `git push origin 
+2. Create your feature branch: `git checkout -b dev.ghostimma.hmkbad 
+3. Commit your changes: `git commit -m 'updating html'
+4. Push to the branch: `git push origin dev.ghostimma.hmkbad
 5. Submit a pull request :D
-
-
 
 ## Credits
 
 Immama Ayoub
 
-Another Ghost Immama!!
+Another Ghost Immama!!!
 
 ## License
 
 MIT
 
-🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
