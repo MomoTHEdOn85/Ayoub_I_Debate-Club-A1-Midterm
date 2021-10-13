@@ -25,14 +25,11 @@
 4. Push to the branch: `git push origin dev.ghostimma.hmkbad
 5. Submit a pull request :D
 
-
 ## Credits
 
 Immama Ayoub
 
 Another Ghost Immama!!!
-
-
 
 ## License
 
