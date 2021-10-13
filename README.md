@@ -19,9 +19,9 @@
 # Ghost Immama
 
 1. Fork it!
-2. Create your feature branch: `git checkout -b  
-3. Commit your changes: `git commit -m
-4. Push to the branch: `git push origin 
+2. Create your feature branch: `git checkout -b dev.ghostimma.hmkbad 
+3. Commit your changes: `git commit -m 'updating html'
+4. Push to the branch: `git push origin dev.ghostimma.hmkbad
 5. Submit a pull request :D
 
 
