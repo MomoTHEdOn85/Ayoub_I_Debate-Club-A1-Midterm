@@ -1,5 +1,5 @@
-
-# Ayoub_I_Debate-Club-A1-Midterm
+ 
+# Ayoub_I_Debate-Club-A1-Midterm - Debating with a partner.
 
 # 💣💣💣⚔️⚔️⚔️⚔️⚔️⚔️💣💣💣  Immama Ayoub 🆚  Ghost Immama on Debate War 💣💣💣⚔️⚔️⚔️⚔️⚔️⚔️💣💣💣
 
@@ -37,4 +37,4 @@ Another Ghost Immama!!!
 ## License
 
 MIT
- 
+
