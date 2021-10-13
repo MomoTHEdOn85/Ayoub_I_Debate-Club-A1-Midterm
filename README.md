@@ -12,7 +12,7 @@
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b dev.imma.hmkgood
-3. Commit your changes: `git commit -m 'added and updated readme'`
+3. Commit your changes: `git commit -m 'added and updated readme' ,  'adding images folder and html file' ,  'updating readme and html file'
 4. Push to the branch: `git push origin dev.imma.hmkgood
 5. Submit a pull request :D
 
